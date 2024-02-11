@@ -9,6 +9,8 @@ This Python script uses the power of AI to help you generate the structure and c
 - **Customizable**: You can easily modify the script to generate content that fits your specific needs.
 - **AI-Powered**: The script uses the Gemini API, a powerful AI model for generating human-like text.
 
+![Screenshot (85)](https://github.com/Abhay-404/Create-Book-using-Gemini_Ai/assets/114435001/dd401196-526f-4110-8775-a12297357e5e)
+
 ## How to Use
 
 1. **Install the Dependencies**: This script requires the `google.generativeai` and `ast` Python libraries. You can install these with pip:
